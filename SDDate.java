@@ -1,4 +1,4 @@
-package baitap_buoi2;
+package buoi2;
 
 public class SDDate {
 

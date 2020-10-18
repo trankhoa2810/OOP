@@ -1,4 +1,4 @@
-package baitap_buoi2;
+package buoi2;
 import java.util.Scanner;
 
 public class Diem {
